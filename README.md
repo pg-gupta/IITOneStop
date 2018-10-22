@@ -15,11 +15,13 @@
  * *Home Page*
  
     This is the landing page of the application.
+    
     ![alt text](https://github.com/pg-gupta/IITOneStop/blob/master/images/home.png "Home Page")
     
 * *Search Page*
 
   Click on the 'Search' button of the home page to get to this page.The page by default shows all the documents available for search.
+  
   ![alt text](https://github.com/pg-gupta/IITOneStop/blob/master/images/search.png "Search Page")
 
 * *Filter as you type*
@@ -30,10 +32,12 @@
 
 * *Filtered result*
 
-  Below snapshot shows the document with the exact word typed in search box
+  Below snapshot shows the document with the exact word typed in search box.
+  
   ![alt text](https://github.com/pg-gupta/IITOneStop/blob/master/images/filtered.png "Filtered results")
 
 * *Document details*
 
   When a user clicks on any document a new page will open showing details of the document.
+  
   ![alt text](https://github.com/pg-gupta/IITOneStop/blob/master/images/docdetails.png "Document Details")
