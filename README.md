@@ -1,8 +1,14 @@
 ﻿# IITOneStop
  
  This is a web application where one can find summaries of all kind of data regulation documents such White Papers,   Newspapers, articles etc.
- This is a Single Page Application and is developed using AngularJs, NodeJs, ExpressJS and MongoDB.
- MongoDB is hosted on AWS and the application is deployed on Azure and can be accessed at https://iitonestop.azurewebsites.net .
+ * This is a Single Page Application 
+ * Technologies Used
+   - Angular 4: For developing front end
+   - NodeJs: For server
+   - ExpressJS: For creating APIs 
+   - MongoDB: For the database. mongodb is hosted on AWS cloud.
+ 
+ * Site address: The application is deployed on Azure and can be accessed at https://iitonestop.azurewebsites.net .
 
  ### Web pages in the applications
  
